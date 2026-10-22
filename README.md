@@ -23,15 +23,7 @@ Ensure you have Python 3.x installed along with `pandas` and `numpy`. You can in
 ```bash
 pip install pandas numpy notebook
 ```
-
-### 2. Execution
-Clone this repository, navigate to the directory, and spin up the Jupyter environment:
-```bash
-git clone <your-repository-url>
-cd <your-repository-folder>
-jupyter notebook
-```
-Open `Data Manipulation with Pandas.ipynb` and execute the cells sequentially.
+Open `sscpandas.ipynb` and execute the cells sequentially.
 
 ## 📂 Outputs Generated
 Running this notebook automatically processes a validation slice of the initial matrix and generates a localized snapshot file titled `wine_analysis_snapshot.csv` in your root working directory.
