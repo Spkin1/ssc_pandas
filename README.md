@@ -13,7 +13,7 @@ The analysis is performed on the **Wine Reviews Dataset**, showcasing clean code
 
 ## 📊 Dataset Requirements
 The notebook processes the **Wine Mag Reviews Dataset** containing approximately 130,000 unique records. 
-* To run the evaluation pipeline, ensure you place the dataset file (`winemag-data-130k-v2.csv`) inside a local repository directory named `Data_002/`.
+* To run the evaluation pipeline, ensure you place the dataset file (`winemag-data-130k-v2.csv`) inside a local repository directory named `Data_102/`.
 * The notebook safely handles missing local data errors using structured exception blocks.
 
 ## 🚀 How to Run the Notebook
